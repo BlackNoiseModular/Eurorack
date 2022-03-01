@@ -1,0 +1,29 @@
+"SALLEN-KEY Filter V1,0",,,
+Reference, Quantity, Value, Footprint
+C1 ,1,4.7n,0603
+C100 C101 ,2,10u,D6.3mm_P2.50mm
+C2 C3 ,2,1n,0603
+C201 C200 C203 C202 C206 C207 C204 C205 ,8,100n,0603
+C4 ,1,470n,0603
+D1 D2 ,2,LED,LED_D3.0mm orange
+D101 D100 ,2,1N5819,SOD-123
+J1 ,1,Input,Vertical jack connector
+J2 ,1,CV-1,Vertical jack connector
+J3 ,1,CV-2,Vertical jack connector
+J4 ,1,Out,Vertical jack connector
+J100 ,1,P- conn,"2x5, 2.54mm pitch male header"
+Q2 Q1 ,2,MMBT3906,SOT-23
+R10 R22 R5 ,3,4.7K,0603
+R11 R12 R16 R17 ,4,220R,0603
+R116 ,1,470K,0603
+R13 R14 R18 R19 R15 R21 ,6,10K,0603
+R2 ,1,220K,0603
+R20 ,1,1K,0603
+R23 ,1,47K,0603
+R4 ,1,1.5K,0603
+R6 R7 R8 R9 R1 R3 ,6,100K,0603
+RV3 ,1,1K,Bourns_3296Y_Vertical
+RV4 RV5 RV6 RV1 RV2 ,5,100K,100K linear potentiometer
+U1 U4 ,2,TL072,SOIC-8
+U2 ,1,LM13700,SOIC-16
+U3 ,1,NE5532,SOIC-8
