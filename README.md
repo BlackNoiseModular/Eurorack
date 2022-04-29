@@ -1,5 +1,5 @@
 # Eurorack
-Ressources for BLACK NOISE eurorack modules  
+__Ressources for BLACK NOISE eurorack modules__  
 *Ibom cannot be read from Git, you must download them to be able to open them in your browser.*
 
 * [Dual Mixer](https://github.com/BlackNoiseModular/Eurorack/tree/main/Dual%20Mixer/Manual)
