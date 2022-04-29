@@ -2,7 +2,7 @@
 __Ressources for BLACK NOISE eurorack modules__  
 *Ibom cannot be read from Git, you must download them to be able to open them in your browser.*
 
-* [Dual Mixer](https://blacknoisemodular.com/products/black-noise-dual-mixer-eurorack-module){:target="_blank"}
+* [Dual Mixer](https://blacknoisemodular.com/products/black-noise-dual-mixer-eurorack-module) {:target="_blank"}
 * [Dual Multi](https://blacknoisemodular.com/products/black-noise-dual-multi-buffered-multiples-eurorack-module)
 * [Dual Rectifier](https://blacknoisemodular.com/products/black-noise-dual-rectifier-eurorack-module)
 * [EG-LFO](https://blacknoisemodular.com/products/black-noise-eg-lfo-eurorack-module)
