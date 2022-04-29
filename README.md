@@ -13,3 +13,5 @@ __Ressources for BLACK NOISE eurorack modules__
 * [SALLEN-KEY](https://blacknoisemodular.com/products/black-noise-sallen-key-eurorack-module)
 * [Slew-LFO](https://blacknoisemodular.com/products/slew-lfo)
 * [VOLTAGE PROCESSOR](https://blacknoisemodular.com/products/voltage-processor)
+
+<a href="https://blacknoisemodular.com/products/black-noise-dual-mixer-eurorack-module/" target="_blank">Dual Mixer</a>
