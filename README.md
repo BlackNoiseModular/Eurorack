@@ -1,5 +1,5 @@
 # Eurorack
-Ressources for eurorack modules
+Ressources for BLACK NOISE eurorack modules
 
 * [Dual Mixer](https://github.com/BlackNoiseModular/Eurorack/tree/main/Dual%20Mixer/Manual)
 * [Dual Multi](https://github.com/BlackNoiseModular/Eurorack/tree/main/Dual%20Multi)
