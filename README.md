@@ -7,6 +7,7 @@ __Ressources for BLACK NOISE eurorack modules__
 * [Dual Rectifier](https://blacknoisemodular.com/products/black-noise-dual-rectifier-eurorack-module)
 * [EG-LFO](https://blacknoisemodular.com/products/black-noise-eg-lfo-eurorack-module)
 * [MIXER 4 - V1](https://blacknoisemodular.com/products/black-noise-mixer-4-eurorack-module)
+* [MIXER 4 - V2](https://blacknoisemodular.com/products/mixer-4-v2)
 * [PIPE](https://blacknoisemodular.com/products/black-noise-pipe-eurorack-module)
 * [SALLEN-KEY](https://blacknoisemodular.com/products/black-noise-sallen-key-eurorack-module)
 * [Slew-LFO](https://blacknoisemodular.com/products/slew-lfo)
