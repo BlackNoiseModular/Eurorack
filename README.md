@@ -11,3 +11,4 @@ __Ressources for BLACK NOISE eurorack modules__
 * [PIPE](https://blacknoisemodular.com/products/black-noise-pipe-eurorack-module)
 * [SALLEN-KEY](https://blacknoisemodular.com/products/black-noise-sallen-key-eurorack-module)
 * [Slew-LFO](https://blacknoisemodular.com/products/slew-lfo)
+* [GOMA](https://blacknoisemodular.com/products/goma)
