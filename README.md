@@ -12,3 +12,4 @@ __Ressources for BLACK NOISE eurorack modules__
 * [SALLEN-KEY](https://blacknoisemodular.com/products/black-noise-sallen-key-eurorack-module)
 * [Slew-LFO](https://blacknoisemodular.com/products/slew-lfo)
 * [GOMA](https://blacknoisemodular.com/products/goma)
+* [VOLTAGE PROCESSOR](https://blacknoisemodular.com/products/voltage-processor)
